@@ -11,5 +11,7 @@
     "psr-4": {
       "LogicSpot\\CmsBlock\\": ""
     }
-  }
+  },
+  "require": {},
+  "minimum-stability": "dev"
 }
