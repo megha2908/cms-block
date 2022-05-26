@@ -1,0 +1,15 @@
+{
+  "name": "logicppot/cmsblock",
+  "description": "CMS Block extension Magento 2 helps the owner of store to add text in Invoice pdf using cms block",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "LogicSpot\\CmsBlock\\": ""
+    }
+  }
+}
