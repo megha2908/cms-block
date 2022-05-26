@@ -1,7 +1,7 @@
-# Magento 2: Message displaying In Bottom Of Invoice PDF using CMS Block
+# Magento 2: Message displaying At the Bottom Of Invoice PDF using CMS Block
 
-The extension allows the admin to display the text in the bottom of the Invoice PDF.
+CMS Block extension allows the admin to add a message to the bottom of the invoice PDF.
 
-The extension create a new Static Block with name "LogicSpot CMS Block" and predefine content "Thank you for buying from us"
+The extension creates a new Static Block called "LogicSpot CMS Block" with the content "Thank you for purchasing from us" predefined.
 
-The content of the static block will display at the bottom of Invoice PDF.
+The static block's information will appear at the bottom of the Invoice PDF.
