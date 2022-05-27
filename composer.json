@@ -3,7 +3,10 @@
   "description": "CMS Block extension Magento 2 helps the owner of store to add text in Invoice pdf using cms block",
   "type": "magento2-module",
   "version": "1.0.0",
-  "license": "proprietary",
+  "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
   "autoload": {
     "files": [
       "registration.php"
@@ -15,9 +18,5 @@
   "require": {
     "php": "~7.3.0|~7.4.0"
   },
-  "minimum-stability": "dev",
-  "repositories": {
-    "type": "composer",
-    "url": "https://github.com/megha2908/cms-block"
-  }
+  "minimum-stability": "stable",
 }
