@@ -12,6 +12,12 @@
       "LogicSpot\\CmsBlock\\": ""
     }
   },
-  "require": {},
-  "minimum-stability": "dev"
+  "require": {
+    "php": "~7.3.0|~7.4.0"
+  },
+  "minimum-stability": "dev",
+  "repositories": {
+    "type": "composer",
+    "url": "https://github.com/megha2908/cms-block"
+  }
 }
